@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>TSV file to JSON</title>
+<script>
+  //var csv is the CSV file with headers
+  function csvJSON(csv){
+    var hashItems = {};  //連想配列がうまくJSON.stringifyするためnew Array();
+    var lines=csv.split("\n");
+    var result = [];
+    var headers=lines[0].split("\t");
+    for(var i=1;i<lines.length;i++){
+      var obj = {};
+      var currentline=lines[i].split("\t");
+      for(var j=0;j<headers.length;j++){
+        obj[headers[j]] = currentline[j];
+      }
+
+      currentline[1] === undefined ? keydata = currentline[0] : keydata = currentline[1];
+      hashItems[currentline[1]] = obj;
+      // result.push(obj);
+      result.push(hashItems);
+    }
+    //return result; //JavaScript object
+    return JSON.stringify(result, null, '\t'); //JSON
+  }
+
+window.addEventListener('DOMContentLoaded', function() {
+// ファイルが指定されたタイミングで、その内容を表示
+document.querySelector("#file").addEventListener('change', function(e) {
+    // File APIを利用できるかをチェック
+    if (window.File && window.FileReader && window.FileList && window.Blob) {
+      // 指定されたファイルを取得
+      var input = document.querySelector('#file').files[0];
+      // ファイル読み込みの準備（1）
+      var reader = new FileReader();
+
+      // ファ//イルの読み込みに成功したら、その内容を<div id="result">に反映（2）
+      reader.addEventListener('load', function(e) {
+
+        var output2 = csvJSON(reader.result);
+
+        document.querySelector("#result").innerHTML = output2;
+
+
+      }, true);
+      // ファイルの内容をテキストとして取得（3）
+
+      reader.readAsText(input, 'UTF-8');
+
+} else {
+  alert('The File APIs are not fully supported in this browser.');
+}
+  }, true);
+
+});
+</script>
+</head>
+<body>
+ファイル：
+<input id="file" name="file" type="file" />
+<hr />
+<!--読み込み結果を反映する場所を用意-->
+<div id="result"></div>
+</body>
+</html>
