@@ -1,0 +1,72 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	language	title_alternative	title_transcription	ncid	ndl_callno	jstage_code	ichushi_code	deleted
+東京学芸大学紀要 総合教育科学系	1880-4306		2006						https://ir.u-gakugei.ac.jp/handle/2309/1411		6996		Fulltext		東京学芸大学	Serial								F	jpn			AA12117441				
+東京学芸大学大学史資料室報			2014-03-31	1					http://www.u-gakugei.ac.jp/shiryoshitsu/newsletter/		12192		Fulltext			Serial									jpn		トウキョウ ガクゲイ ダイガク ダイガクシ シリョウシツホウ					
+東京学芸大学紀要．第6部門，産業技術・家政	0387-8953		1971			1991			https://ir.u-gakugei.ac.jp/handle/2309/3047		7006		Fulltext		東京学芸大学	Serial								F	jpn		トウキョウ ガクゲイ ダイガク キヨウ ダイ 6 ブモン サンギョウ ギジュツ カセイ	AN00158261	Z14-268			
+Leo	0917-0839		1989			2007			https://ir.u-gakugei.ac.jp/handle/2309/3101		6952		Fulltext		東京学芸大学大学院英語研究会	Serial								F	eng			AN00343219				
+教員研修留学生プログラム報告			1997			2002			https://ir.u-gakugei.ac.jp/handle/2309/3095		6968		Fulltext		東京学芸大学	Serial								F	jpn			BN05262677				
+国際教育評論	1348-4486		2006			2006			https://ir.u-gakugei.ac.jp/handle/2309/3095//simple-search?query=%28default%3A%E5%9B%BD%E9%9A%9B%E6%95%99%E8%82%B2%E8%A9%95%E8%AB%96%29&searchfieldname=collection&index_all=default&field_all=%E5%9B%BD%E9%9A%9B%E6%95%99%E8%82%B2%E8%A9%95%E8%AB%96		6985		Fulltext		東京学芸大学	Serial								F	jpn			AA11859663				
+東京学芸大学紀要 第5部門 芸術・健康・スポーツ科学	1341-1691		1992			2004			https://ir.u-gakugei.ac.jp/handle/2309/2757		7001		Fulltext		東京学芸大学	Serial								F	jpn			AN10404761	Z11-284			
+特殊教育研究施設報告	0386-3271		2003			2004			http://www.u-gakugei.ac.jp/~crsep/rieec/AR/		7017		Fulltext		東京学芸大学	Serial								F	jpn			AN00158396	Z7-681			
+学芸国語国文学	0387-9135		1975			2007			http://ir.u-gakugei.ac.jp/handle/2309/43014		6957		Fulltext		東京学芸大学国語国文学会	Serial								F	jpn			AN00038667	Z13-1136			
+研究紀要	0912-9510		1991			1995			https://ir.u-gakugei.ac.jp/handle/2309/3072		6973		Fulltext		東京学芸大学附属小金井中学校 	Serial								F	jpn			AN00158501				
+地理学会誌	0911-2685		1954			1956			http://ir.u-gakugei.ac.jp/handle/2309/117120		6990		Fulltext		東京学芸大学地理学会	Serial								F	jpn			AN00148100				
+学芸地理	0911-2693		1999			2004			https://ir.u-gakugei.ac.jp/handle/2309/38596		6958		Fulltext		東京学芸大学地理学会	Serial								F	jpn			AN00038703	Z8-708			
+研究紀要			2003			2003			https://ir.u-gakugei.ac.jp/handle/2309/3084		6974		Fulltext		東京学芸大学附属幼稚園	Serial								F	jpn			AN1041942X				
+東京学芸大学海外子女教育センター研究紀要	0287-4008		1982			2001			http://ir.u-gakugei.ac.jp/simple-search?query=02874008		6991		Fulltext		東京学芸大学海外子女教育センター	Serial								F	jpn			AN00398786	Z7-1460			
+東京学芸大学教育学部附属教育実践総合センター研究紀要	1345-7411		1998			2004			http://ir.u-gakugei.ac.jp/handle/2309/3089		7007		Fulltext		東京学芸大学	Serial								F	jpn			AA11312000	Z7-3419			
+環境教育学研究 : 東京学芸大学環境教育実践施設研究報告	1344-6444		1998			2006			https://ir.u-gakugei.ac.jp/handle/2309/3091		6962		Fulltext		東京学芸大学附属環境教育実践施設	Serial								F	jpn			AA11451969	Z7-2892			
+研究紀要	1343-1579		1992			2003			https://ir.u-gakugei.ac.jp/handle/2309/3079		6978		Fulltext		東京学芸大学教育学部附属竹早小学校・幼稚園	Serial								F	jpn			AN00158567				
+東京学芸大学教育学部附属小金井小学校研究紀要	0912-3091		1991			1995			https://ir.u-gakugei.ac.jp/handle/2309/3070		7011		Fulltext		東京学芸大学	Serial								F	jpn			AA11547955				
+教育研究 : 東京学芸大学附属世田谷中学校研究年報			2006			2007			https://ir.u-gakugei.ac.jp/handle/2309/3066		6963		Fulltext		東京学芸大学附属世田谷中学校 	Serial								F	jpn			AA12255489				
+研究紀要			1988			2005			https://ir.u-gakugei.ac.jp/handle/2309/3082		6979		Fulltext		東京学芸大学教育学部附属竹早中学校	Serial								F	jpn			AN00185286				
+東京学芸大学附属小金井小学校紀要	0912-3091		1997			2003			https://ir.u-gakugei.ac.jp/handle/2309/3070		7012		Fulltext		東京学芸大学	Serial								F	jpn			AN00158487				
+教育と研究			2001			2004			https://ir.u-gakugei.ac.jp/handle/2309/3066		6966		Fulltext		東京学芸大学教育学部附属世田谷中学校 	Serial								F	jpn			AA11553561				
+言語学論叢		1882-6601	2008			2008			http://www.lingua.tsukuba.ac.jp/~ippan/TWPL0/contents.html		6983		Fulltext		東京教育大学言語学研究会	Serial								F	jpn				Z12-69			
+東京学芸大学紀要 第3部門 社会科学	0387-8937		1966			2005			https://ir.u-gakugei.ac.jp/handle/2309/2756		6999		Fulltext		東京学芸大学	Serial								F	jpn			AN00158228	Z22-390			
+時の扉 : 東京学芸大学大学院伝承文学研究レポート			1998			2005			https://ir.u-gakugei.ac.jp/handle/2309/3101		7015		Fulltext		東京学芸大学	Serial								F	jpn			AA12058604				
+Beitrage zur Germanistik. Festschrift			1971			1993			https://ir.u-gakugei.ac.jp/handle/2309/38239		6951		Fulltext		Tokyo-Gakugeidaigaku	Serial								F	eng			AN10176259				
+教育学研究年報	0911-9663		1982			2006			https://ir.u-gakugei.ac.jp/handle/2309/3049		6967		Fulltext		東京学芸大学教育学講座学校教育学分野・生涯教育学分野	Serial								F	jpn			AN10041329	Z7-1828			
+国際教育研究	0389-3189		1982			2006			https://ir.u-gakugei.ac.jp/handle/2309/3095		6984		Fulltext		東京学芸大学国際教育センター国際教育研究室	Serial								F	jpn			AN00332223	Z7-1238			
+特殊教育研究施設研究年報	1341-0563		1995			2000			http://ir.u-gakugei.ac.jp/handle/2309/3089		7016		Fulltext		東京学芸大学	Serial								F	jpn			AN10471124	Z7-B541			
+英學論考	0388-9769		1971			2003			https://ir.u-gakugei.ac.jp/handle/2309/38239		6955		Fulltext		東京学芸大学英語合同研究室	Serial								F	jpn			AN00330862	Z12-467			
+研究紀要	0289-3576		1993			2000			https://ir.u-gakugei.ac.jp/handle/2309/3066		6971		Fulltext		東京学芸大学附属世田谷中学校	Serial								F	jpn			AN00158545				
+東京学芸大学紀要．第6部門，技術・家政・野外教育	0387-8953		1992			1993			https://ir.u-gakugei.ac.jp/handle/2309/3046		7004		Fulltext		東京学芸大学	Serial								F	jpn			AN10432858	Z14-268			
+山桃			2001			2002			http://ir.u-gakugei.ac.jp/handle/2309/43014		7020		Fulltext		東京学芸大学	Serial								F	jpn			AA11908769				
+音楽教育学研究論集	1344-6584		1999			2004			https://ir.u-gakugei.ac.jp/handle/2309/3061		6956		Fulltext		東京学芸大学大学院連合学校教育学研究科芸術系教育講座音楽教育学研究室	Serial								F	jpn			AA11316839	Z71-E370			
+研究紀要	0912-8832		1990			2001			https://ir.u-gakugei.ac.jp/handle/2309/3064		6972		Fulltext		東京学芸大学附属世田谷小学校	Serial								F	jpn			AN00158523				
+多摩留学生教育研究論集	1344-0918		2004			2006			https://ir.u-gakugei.ac.jp/handle/2309/58601		6989		Fulltext		東京農工大学留学生センター	Serial								F	jpn			AA12142096	Z71-C175			
+東京学芸大学紀要．第6部門，産業技術・家政	0387-8953		1994			1994			https://ir.u-gakugei.ac.jp/handle/2309/44234		7005		Fulltext		東京学芸大学	Serial								F	jpn			AN10432858	Z14-268			
+臨地研究報告			2006			2006			https://ir.u-gakugei.ac.jp/handle/2309/38596		7021		Fulltext		東京学芸大学教育学部地理学研究室 	Serial								F	jpn			AA12142052				
+環境教育研究 : 東京学芸大学環境教育実践施設研究報告	1341-6464		1996			1996			https://ir.u-gakugei.ac.jp/handle/2309/3091		6961		Fulltext		東京学芸大学附属環境教育実践施設	Serial								F	jpn			AN10563856				
+研究紀要			2007			2011			http://ir.u-gakugei.ac.jp/handle/2309/3082		6977		Fulltext		東京学芸大学	Serial								F	jpn			AA11586083				
+東京学芸大学附属学校研究紀要	0285-4309		1990			2007			https://ir.u-gakugei.ac.jp/handle/2309/6896		7010		Fulltext		東京学芸大学	Serial								F	jpn			AN00333496				
+教育実習研究指導センター研究紀要	0918-4317		1989			1997			http://ir.u-gakugei.ac.jp/handle/2309/3089		6964		Fulltext		東京学芸大学	Serial								F	jpn			AN10125087				
+研究紀要			1990			2006			https://ir.u-gakugei.ac.jp/handle/2309/3068		6980		Fulltext		東京学芸大学附属高等学校大泉校舎	Serial								F	jpn							
+東京学芸大学附属竹早小学校研究紀要			1996			1996			https://ir.u-gakugei.ac.jp/handle/2309/3078		7013		Fulltext		東京学芸大学	Serial								F	jpn			AN00266526				
+教育実習の改善に関する研究			1988			1988			http://ir.u-gakugei.ac.jp/handle/2309/3089		6965		Fulltext		東京学芸大学	Serial								F	jpn			AN0018456				
+研究集録	0285-6433		1990			2000			https://ir.u-gakugei.ac.jp/handle/2309/3076		6981		Fulltext		東京学芸大学附属大泉中学校	Serial								F	jpn			AN00158421				
+東京学芸大学紀要 第2部門 人文科学	0387-8929		1967			2005			https://ir.u-gakugei.ac.jp/handle/2309/2674		6998		Fulltext		東京学芸大学	Serial								F	jpn			AN00158206	Z22-389			
+東京学芸大学附属図書館報 : 図書館ニュース	0913-901X		1997			2009			http://library.u-gakugei.ac.jp/lbhome/newsix.html		7014		Fulltext		東京学芸大学附属図書館	Serial								F	jpn			AN10114728				
+国立大学教育実践研究関連センター協議会年報			1997			2007			http://gauge.u-gakugei.ac.jp/cerd/cerd.htm		6986		Fulltext		国立大学教育実践研究関連センター協議会	Serial								F	jpn			BA76608226				
+造形芸術学・演劇学 : 東京学芸大学造形芸術学・演劇学講座研究紀要	1341-6812		1996			2001			https://ir.u-gakugei.ac.jp/handle/2309/3061		6954		Fulltext		東京学芸大学	Serial								F	jpn			AN10518738				
+教員養成カリキュラム開発研究センターニュースレター			2007			2007			http://www.u-gakugei.ac.jp/~currict/news/index.html		6970		Fulltext		東京学芸大学 	Serial								F	jpn							
+在外教育施設における指導実践記録			1999			2004			https://ir.u-gakugei.ac.jp/handle/2309/3095		6987		Fulltext		東京学芸大学	Serial								F	jpn			AN1015909X				
+東京学芸大学紀要 第6部門 技術・家政・環境教育	1341-1705		1994			2004			https://ir.u-gakugei.ac.jp/handle/2309/2941		7003		Fulltext		東京学芸大学	Serial								F	jpn			AN10475963				
+学びの場をひらく : 実践事例集			1996			1998			https://ir.u-gakugei.ac.jp/handle/2309/3080		7019		Fulltext		東京学芸大学教育学部附属竹早小学校・幼稚園	Serial								F	jpn			AA11557493				
+史海	0288-6731		2003			2004			https://ir.u-gakugei.ac.jp/handle/2309/38596		6988		Fulltext		東京学芸大学史学会	Serial								F	jpn			AN00099785	Z8-325			
+学芸大数学教育研究	0917-3013		1996			2007			https://ir.u-gakugei.ac.jp/handle/2309/3058		6959		Fulltext		東京学芸大学数学教育学科	Serial								F	jpn			AN10114706				
+研究紀要			2000			2001			https://ir.u-gakugei.ac.jp/handle/2309/3086		6975		Fulltext		東京学芸大学附属養護学校	Serial								F	jpn			AA11724835				
+東京学芸大学教育実践研究支援センター紀要	1349-9580		2005			2007			https://ir.u-gakugei.ac.jp/handle/2309/3089		7008		Fulltext		東京学芸大学	Serial								F	jpn			AA12038480	Z71-N689			
+学校教育学研究論集	1344-7068		1998			2007			https://ir.u-gakugei.ac.jp/handle/2309/3036		6960		Fulltext		東京学芸大学大学院連合学校教育学研究科	Serial								F	jpn			AA11321329	Z71-C196			
+研究紀要	1342-1972		1996			2004			https://ir.u-gakugei.ac.jp/handle/2309/3072		6976		Fulltext		東京学芸大学教育学部附属小金井中学校	Serial								F	jpn			AA11844269				
+東京学芸大学教職大学院年報	2187-3224		2012						http://ir.u-gakugei.ac.jp/handle/2309/131972		7009		Fulltext		東京学芸大学	Serial								F	jpn			AA12591409				
+東京学芸大学紀要 第1部門 教育科学	0387-8910		1967			2005			https://ir.u-gakugei.ac.jp/handle/2309/2026		6997		Fulltext		東京学芸大学	Serial								F	jpn			AN00158181	Z7-316		J00879	
+東京学芸大学紀要 第4部門 数学・自然科学	0371-6813		1972			2004			https://ir.u-gakugei.ac.jp/handle/2309/1622		7000		Fulltext		東京学芸大学	Serial								F	jpn			AN00158283	Z14-236		J00880	
+Archaeo-Clio			2000			2007			https://ir.u-gakugei.ac.jp/handle/2309/3059		6953		Fulltext		東京学芸大学考古学研究室 	Serial								F	eng			AA11653395				
+教員養成カリキュラム開発研究センター研究年報	1348-0448		2002			2007			https://ir.u-gakugei.ac.jp/handle/2309/3097		6969		Fulltext		東京学芸大学	Serial								F	jpn			AA11642934				
+東京学芸大学紀要 第5部門 芸術・体育	0387-8945		1966			1991			https://ir.u-gakugei.ac.jp/handle/2309/2758		7002		Fulltext		東京学芸大学	Serial								F	jpn			AN0015824X	Z11-284		J00878	
+藤棚	0913-4530		2000			2011			http://ir.u-gakugei.ac.jp/handle/2309/3064		7018		Fulltext		東京学芸大学	Serial								F	jpn			AN10159089				
+東京学芸大学紀要 芸術・スポーツ科学系	1880-4349		2005	57					https://ir.u-gakugei.ac.jp/citation-home?citation_id=2		6992		Selected articles	第60集(2008）以降 : 全論文, 第59集（2007）以前 : 著者の許諾が得られた論文	東京学芸大学	Serial								F	jpn			AA12079728			J05458	
+東京学芸大学紀要 自然科学系	1880-4330		2005	57					https://ir.u-gakugei.ac.jp/citation-home?citation_id=1		6993		Selected articles	第60集(2008）以降 : 全論文, 第59集（2007）以前 : 著者の許諾が得られた論文	東京学芸大学	Serial								F	jpn			AA12070144				
+東京学芸大学紀要. 人文社会科学系. I	1880-4314		2006	57					https://ir.u-gakugei.ac.jp/citation-home?citation_id=21		6994		Selected articles	第60集(2008）以降 : 全論文, 第59集（2007）以前 : 著者の許諾が得られた論文	東京学芸大学	Serial								F	jpn			AA12118309	Z22-389			
+東京学芸大学紀要 人文社会科学系　II	1880-4322		2006	57					https://ir.u-gakugei.ac.jp/citation-home?citation_id=23		6995		Selected articles	第60集(2008）以降 : 全論文, 第59集（2007）以前 : 著者の許諾が得られた論文	東京学芸大学	Serial								F	jpn			AA12118320				
